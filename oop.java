@@ -18,5 +18,7 @@ public class oop{
         Hello h=new Hello();
         new Hello(x);
 h.hell(x);
+
     }
+    
 }
