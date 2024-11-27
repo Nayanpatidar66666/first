@@ -14,7 +14,7 @@ void hell(int a){
 public class oop{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        int x=sc.nextInt();
+        int x=9;
         Hello h=new Hello();
         new Hello(x);
 h.hell(x);
