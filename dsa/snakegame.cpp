@@ -37,9 +37,3 @@ bool start;
     }
     return 0;
  }
-// int function()
-// {
-// }
-// int logic()
-// {
-// }
